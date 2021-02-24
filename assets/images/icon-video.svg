@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wednesday" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-video">
+            <circle id="Oval-3" stroke="#1653D7" stroke-width="2" cx="12" cy="12" r="11"></circle>
+            <path d="M13.3731951,7.98937071 L17.4484064,15.0062771 C17.7257729,15.4838609 17.5634648,16.095869 17.085881,16.3732355 C16.9333359,16.4618292 16.7600698,16.5084936 16.5836645,16.5084936 L8.4332419,16.5084936 C7.88095715,16.5084936 7.4332419,16.0607784 7.4332419,15.5084936 C7.4332419,15.3320883 7.47990633,15.1588222 7.56849998,15.0062771 L11.6437113,7.98937071 C11.9210778,7.51178693 12.5330859,7.34947876 13.0106697,7.62684527 C13.1609617,7.71413042 13.28591,7.8390787 13.3731951,7.98937071 Z" id="Triangle" fill="#1653D7" transform="translate(12.508535, 11.999958) rotate(90.000000) translate(-12.508535, -11.999958) "></path>
+        </g>
+    </g>
+</svg>

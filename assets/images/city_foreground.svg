@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="430px" viewBox="0 0 680 430" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>city_foreground</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.6049107%" id="linearGradient-1">
+            <stop stop-color="#DD5151" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DD5151" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="137 73.4607973 188 35 188 248.14735 137 255.852713"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="55.3435076%" id="linearGradient-3">
+            <stop stop-color="#DD5151" offset="0%"></stop>
+            <stop stop-color="#DD5151" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.868941327%" x2="50%" y2="97.0703125%" id="linearGradient-4">
+            <stop stop-color="#407EFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#40B3FF" stop-opacity="0.670318161" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="2" y="92" width="204" height="318.644531"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="58.7823276%" id="linearGradient-6">
+            <stop stop-color="#FFEA70" offset="0%"></stop>
+            <stop stop-color="#FFD754" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="0 30 60 30 60 258 0 258"></polygon>
+    </defs>
+    <g id="Wednesday" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="city_foreground">
+            <g id="Red" transform="translate(468.000000, 114.000000)">
+                <polygon id="Rectangle-5" fill="#DD5151" points="86 71.8261719 174 0.648343441 174 211.14735 86 218.852713"></polygon>
+                <polygon id="Rectangle-5" fill="#E85F6B" points="86 72 188 72 188 316 86 316"></polygon>
+                <polygon id="Rectangle-5" fill="#E85F6B" points="-3.52429197e-12 96.0284238 88 96.0284238 88 316 -3.63797881e-12 316"></polygon>
+                <polygon id="Rectangle-5" fill="#E85F6B" points="14 35 32 35 32 289.761833 14 298.971576"></polygon>
+                <g id="Rectangle-5">
+                    <use fill="#F67591" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.699999988" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <polygon id="Rectangle-5" fill="url(#linearGradient-3)" points="35 149.460797 86 111 86 381.14735 35 388.852713"></polygon>
+            </g>
+            <g id="Blue" transform="translate(232.000000, 20.000000)">
+                <g id="Group-2">
+                    <polygon id="Rectangle-5" fill="#40B3FF" points="188 1.36424205e-12 206 1.36424205e-12 206 221.010385 188 229"></polygon>
+                    <polygon id="Rectangle-5" fill="#40B3FF" points="149 1.36424205e-12 167 1.36424205e-12 167 221.010385 149 229"></polygon>
+                    <path d="M59,38 L125,38 C144.882251,38 161,54.117749 161,74 L161,223.301284 L59,230 L59,38 Z" id="Rectangle-5" fill="#0073F9"></path>
+                    <polygon id="Rectangle-5" fill="#40B3FF" points="59 59 206 59 206 244.301284 59 251"></polygon>
+                    <g id="Rectangle-5">
+                        <use fill="#86DCFF" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                    <path d="M88,284.442353 C112.857569,291.772647 131,314.767628 131,342 L131,410 L88,410 L0,410 L0,92 L33,92 C63.3756612,92 88,116.624339 88,147 L88,284.442353 Z" id="Combined-Shape" fill="#40B3FF"></path>
+                </g>
+            </g>
+            <g id="Yellow" transform="translate(113.000000, 301.000000) scale(-1, 1) translate(-113.000000, -301.000000) translate(24.000000, 172.000000)">
+                <path d="M47,0 L132,0 C149.120827,-3.14504494e-15 163,13.8791728 163,31 L16,31 L16,31 C16,13.8791728 29.8791728,3.14504494e-15 47,0 Z" id="Rectangle-19" fill="#FEC62C"></path>
+                <path d="M47,0 L53,0 C70.1208272,-3.14504494e-15 84,13.8791728 84,31 L16,31 L16,31 C16,13.8791728 29.8791728,3.14504494e-15 47,0 Z" id="Rectangle-19" fill="#FFEA70"></path>
+                <polygon id="Rectangle-5" fill="#FEC62C" points="118 30 178 30 178 258 118 258"></polygon>
+                <polygon id="Rectangle-5" fill="#FFD754" points="58 30 119 30 119 258 58 258"></polygon>
+                <g id="Rectangle-5">
+                    <use fill="#FFEA70" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

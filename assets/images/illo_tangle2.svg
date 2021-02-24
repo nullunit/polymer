@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="140px" viewBox="0 0 360 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>illo_tangle2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="103.299094%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FA7AE4" offset="0%"></stop>
+            <stop stop-color="#FA7A96" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="90.3817943%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFE970" offset="0%"></stop>
+            <stop stop-color="#FDB16B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#85DBFE" offset="0%"></stop>
+            <stop stop-color="#ABFAF3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Wednesday" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="illo_tangle2">
+            <g id="Group-10" transform="translate(169.500000, 61.000000) scale(-1, 1) translate(-169.500000, -61.000000) translate(11.000000, 7.000000)">
+                <g id="Group-17">
+                    <path d="M-0.815074769,36.6849252 C10.2656544,36.6849252 16.8495638,36.6849252 18.9366535,36.6849252 C40.7604594,36.6849252 53.6849252,44.7767307 53.6849252,71.6717782 C53.6849252,75.9233814 53.6849252,81.6378136 53.6849252,88.8150748" id="Path-7" stroke="url(#linearGradient-1)" stroke-width="15" transform="translate(26.434925, 62.750000) scale(-1, 1) rotate(-90.000000) translate(-26.434925, -62.750000) "></path>
+                    <path d="M134.5,90 L134.5,11.2068459" id="Path" stroke="#8EACEB" stroke-width="15" transform="translate(134.500000, 50.603423) scale(1, -1) translate(-134.500000, -50.603423) "></path>
+                    <g id="Group-6" transform="translate(76.000000, 0.465957)">
+                        <path d="M116.142578,60.0340425 C167.388398,60.0340425 199.090872,60.0340425 211.25,60.0340425 C229.488692,60.0340425 240.5,72.8113863 240.5,89.5340425" id="Path-8" stroke="#0021B5" stroke-width="15"></path>
+                        <path d="M57.5390466,106.412949 C57.5390466,71.4214659 57.5390466,49.1615399 57.5390466,39.6331708 C57.5390466,25.3406171 65.5049379,12.0340425 82.8217052,12.0340425 C94.3662168,12.0340425 118.592315,12.0340425 155.5,12.0340425" id="Path-8" stroke="url(#linearGradient-2)" stroke-width="15" transform="translate(106.519523, 59.223496) scale(-1, 1) translate(-106.519523, -59.223496) "></path>
+                        <path d="" id="Path-9" stroke="#979797" stroke-width="0.6"></path>
+                        <path d="M109.271484,60.134041 C76.0548513,60.0673754 48.1754977,60.0340425 25.6334236,60.0340425 C-8.1796875,60.0340425 -8.1484375,12.0340425 25.6334236,12.0340425 C29.1839602,12.0340425 38.1914213,12.0340425 52.6558069,12.0340425" id="Path-10" stroke="url(#linearGradient-3)" stroke-width="15"></path>
+                        <circle id="Oval-5" fill="#ABFAF3" cx="58.5" cy="12.4207048" r="11.5"></circle>
+                        <ellipse id="Oval-5" fill="#0021B5" cx="108.342084" cy="59.4096916" rx="11.3420842" ry="11.4096916"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <path d="M81,109 L112,109 L112,140 L81,140 L81,109 Z M91,119 L91,130 L102,130 L102,119 L91,119 Z" id="Combined-Shape" fill="#FFE870"></path>
+            <path d="M324,27 L355,27 L355,58 L324,58 L324,27 Z M334,37 L334,48 L345,48 L345,37 L334,37 Z" id="Combined-Shape" fill="#FA7ADB"></path>
+        </g>
+    </g>
+</svg>

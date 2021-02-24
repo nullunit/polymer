@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="85px" viewBox="0 0 300 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>illo_flow2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="109.162441%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FA7AE5" offset="0%"></stop>
+            <stop stop-color="#FA977A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Wednesday" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="illo_flow2">
+            <g id="Group" transform="translate(8.000000, 0.000000)">
+                <g id="Group-11">
+                    <g id="Group-9" transform="translate(74.759563, 0.720988)" fill="#1653D7">
+                        <rect id="Rectangle-13" x="0" y="0.279012346" width="105" height="15" rx="7.5"></rect>
+                    </g>
+                    <g id="Group-8" transform="translate(19.000000, 65.000000)"></g>
+                    <g id="Group-3" transform="translate(0.783458, 38.264198)" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-width="15">
+                        <path d="M0.0759172959,0.235802469 C55.3340553,0.235802469 90.1013489,0.235802469 104.377798,0.235802469 C125.792472,0.235802469 132.298734,38.2358025 150.861561,38.2358025 C163.236779,38.2358025 177.683882,38.2358025 194.20287,38.2358025" id="Path-5"></path>
+                    </g>
+                    <rect id="Rectangle-13" fill="#95E8F9" x="153" y="31" width="135" height="15" rx="7.5"></rect>
+                </g>
+                <rect id="Rectangle-13" fill="#FFFFFF" x="43" y="69" width="59.8032543" height="15" rx="7.5"></rect>
+                <rect id="Rectangle-13" fill="#4B75DA" x="227" y="69" width="39.0021224" height="15" rx="7.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

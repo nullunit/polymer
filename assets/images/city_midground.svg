@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800px" height="260px" viewBox="0 0 1800 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>city_midground</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wednesday" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="city_midground">
+            <g id="Background-Buildings" transform="translate(17.000000, 4.000000)" fill="#0021B5">
+                <rect id="Rectangle-20" x="627" y="0" width="13" height="203"></rect>
+                <rect id="Rectangle-20" x="0" y="197" width="204" height="59"></rect>
+                <rect id="Rectangle-20" x="522" y="30" width="142" height="192"></rect>
+                <rect id="Rectangle-20" x="256" y="66" width="13" height="131"></rect>
+                <rect id="Rectangle-20" x="1659" y="30" width="13" height="203"></rect>
+                <rect id="Rectangle-20" x="235" y="75" width="13" height="122"></rect>
+                <rect id="Rectangle-20" x="1638" y="39" width="13" height="203"></rect>
+                <rect id="Rectangle-20" transform="translate(1394.500000, 187.500000) scale(-1, 1) translate(-1394.500000, -187.500000) " x="1214" y="119" width="361" height="137"></rect>
+                <rect id="Rectangle-20" transform="translate(1659.000000, 225.500000) scale(-1, 1) translate(-1659.000000, -225.500000) " x="1557" y="195" width="204" height="61"></rect>
+                <rect id="Rectangle-20" x="176" y="109" width="186" height="147"></rect>
+                <rect id="Rectangle-10" x="336" y="61" width="478" height="195"></rect>
+                <rect id="Rectangle-20" transform="translate(1057.500000, 162.500000) scale(-1, 1) translate(-1057.500000, -162.500000) " x="773" y="69" width="569" height="187"></rect>
+                <rect id="Rectangle-3" x="1549" y="75" width="150" height="181"></rect>
+                <circle id="Oval-2" cx="1469.5" cy="122.5" r="46.5"></circle>
+                <circle id="Oval-2" cx="94" cy="211" r="44"></circle>
+                <polygon id="Rectangle-8" points="336 37 389.707031 65 336 65"></polygon>
+                <polygon id="Rectangle-8" points="380 37 433.707031 65 380 65"></polygon>
+                <polygon id="Rectangle-8" points="426 37 479.707031 65 426 65"></polygon>
+            </g>
+            <g id="Midground-Buildings" transform="translate(243.000000, 114.000000)">
+                <path d="M1326.70703,88 L1327,88 L1327,118 L1380,118 L1380,44 L1393,44 L1393,118 L1403,118 L1403,54 L1416,54 L1416,118 L1429,118 L1429,146 L1263,146 L1034,146 L552,146 L0,146 L0,88 L163,88 L163,43 L207,43 L207,0 L220,0 L220,43 L230,43 L230,10 L243,10 L243,43 L367,43 L367,88 L391.004298,88 C391.001436,87.8336766 391,87.6670061 391,87.5 C391,71.7598846 403.759885,59 419.5,59 C435.240115,59 448,71.7598846 448,87.5 C448,87.6670061 447.998564,87.8336766 447.995702,88 L552,88 L552,58 L1034,58 L1034,88 L1188.75432,88 L1236.70703,63 L1236.70703,85.9392683 L1280.70703,63 L1280.70703,86.9819623 L1326.70703,63 L1326.70703,88 Z" id="Combined-Shape" fill="#0C3AC6"></path>
+                <g id="Group" transform="translate(1273.000000, 63.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
